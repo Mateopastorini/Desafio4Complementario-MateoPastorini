@@ -16,7 +16,7 @@ if (descuento < 1 || descuento > 100 || isNaN(descuento)) {
         <div class="contenedor">
             <div class="card card1">
                 <img src="1660ti.jpg" alt="1660">
-                <h2>GTX 1660 Ti GamingX <br> <del> $120.000 </del> <span>$${funcDescuento(precio1, descuento)}</span> </h2>
+                <h2>GTX 1660 Ti GamingX <br> <del> $130.000 </del> <span>$${funcDescuento(precio1, descuento)}</span> </h2>
             </div>
     
             <div class="card card2">
